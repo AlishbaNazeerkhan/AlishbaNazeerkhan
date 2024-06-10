@@ -5,8 +5,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, Python, C++, SQL
 - 📫 How to reach me alishbanazeerkhan2@gmail.com
 
-🌐 Socials:
-[Instagram](https://www.instagram.com/alishbakhan162)  https://www.linkedin.com/in/alishba-nazeer-khan/
+
 <!---
 AlishbaNazeerkhan/AlishbaNazeerkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
