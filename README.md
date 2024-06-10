@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AlishbaNazeerkhan
+## Hi there,
+- 👭 I’m @AlishbaNazeerkhan
 - 👀 I am interested in becoming a Python developer.
 - 🌱 I'm actively enhancing my front-end development skills by diving into HTML, CSS, and JavaScript frameworks. Through hands-on project creation, I'm gaining practical experience and building a robust portfolio.
 - 💞️ I’m looking to collaborate on front-end projects.
