@@ -3,7 +3,7 @@
 - 🔧 Passionate about VLSI and digital design, with a strong focus on turning innovative tech ideas into silicon reality.
 - 🛠️ I love being hands-on with projects to reinforce my learning and gain real-world experience. 
 - 🤝 Open to collaborations and always up for discussing new ideas in tech and design.  
-- 💬 Ask me about: Digital Logic Design, Verilog, Python, C, and C++. 
+- 💬 Ask me about: Digital Logic Design, System Verilog, and C. 
 - 📫 How to reach me alishbanazeerkhan2@gmail.com
 
 
